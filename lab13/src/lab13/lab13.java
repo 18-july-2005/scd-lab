@@ -29,3 +29,4 @@ public class lab13 {
         System.out.println("Multiplication: " + calc.multiply(a, b));
     }
 }
+//push proof
